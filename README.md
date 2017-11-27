@@ -1,6 +1,8 @@
 goinmon
 =======
 
+This is still Work in Progress thing.
+
 Inspired by [bichenkk/coinmon](https://github.com/bichenkk/coinmon).
 
 Screenshot
